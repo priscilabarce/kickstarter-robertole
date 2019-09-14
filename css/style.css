@@ -1,7 +1,16 @@
 .header {
-  height: 100px;
+  height: 79px;
 }
 
 .container-fluid {
   padding: 0px !important;
+}
+
+.menu {
+  height: 45px;
+  padding: 0px 15px;
+}
+
+.categories {
+  height: 60px;
 }
