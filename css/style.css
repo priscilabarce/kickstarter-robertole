@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Maison Neue Book";
+  src: url(./maison-neue-book.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+
 .header {
   height: 79px;
 }
@@ -21,4 +28,12 @@
 
 .valign-middle {
   fill: #6bd07a;
+}
+
+.explorar,
+.empezar,
+.busqueda,
+.sesion {
+  font-family: "Maison Neue Book";
+  font-size: 0.9rem;
 }
