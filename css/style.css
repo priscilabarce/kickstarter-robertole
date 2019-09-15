@@ -30,10 +30,37 @@
   fill: #6bd07a;
 }
 
-.explorar,
-.empezar,
-.busqueda,
-.sesion {
+a,
+h2,
+h3 {
+  color: #282828 !important;
+}
+
+* {
   font-family: "Maison Neue Book";
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  color: #656969;
+}
+
+h4 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-top: 18px;
+  line-height: 3;
+}
+
+.card-mine {
+  margin-left: 18px;
+}
+
+a:hover {
+  color: #037362 !important;
+}
+
+img {
+  margin-left: 0px !important;
+}
+
+h2 {
+  font-size: 1.4rem;
 }
