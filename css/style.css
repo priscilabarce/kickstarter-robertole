@@ -14,3 +14,11 @@
 .categories {
   height: 60px;
 }
+
+.menu-left {
+  padding-left: 16px;
+}
+
+.valign-middle {
+  fill: #6bd07a;
+}
